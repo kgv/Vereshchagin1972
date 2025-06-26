@@ -1,1 +1,1 @@
-# Vereshchagin1972
+# Vereshchagin A.G.  Биохимия триглицеридов
