@@ -25,11 +25,6 @@
 22. Н. А. Малафеев, И. П. Юдина, Н. М. Жаворонков. Успехи химии, 31, 310, 1962.
 23. А. Л. Маркман. Труды Ташкентского политехн. ин-та, новая серия, вып. 22, 249, 1963.
 24. К. Мацек, Ч. Михалец. В кн.: И. И. Хайс, К. Мацек. Хроматография на бумаге. М., ИЛ, 1962, стр. 230.
-
-281
-
----
-
 25. Н. И. Погонкина, В. П. Ржехин. Масл.-жир. промышленность, № 8, 7, 1963.
 26. В. Л. Пустовалов. Биохимия, 20, 730, 1955.
 27. Г. Б. Равич, Б. Н. Егоров, Б. Г. Крылов. Известия АН СССР, отд. хим. наук, 481, 1963.
@@ -69,9 +64,6 @@
 61. R. L. Anderson, S. B. Tove. Federation Proc., 21, 285, 1962.
 62. S. Anselmi, L. Boniforti, R. Monacelli. Olearia, 14, 47, 1960.
 63. C. Antoniani, L. Goldberg Federico, A. Daghetta, T. Benelli. Biochim. appl., 12, 168, 1965.
-
-282
-
 64. M. Aparicio. Grasas y aceites, 12, 109, 1961.
 65. T. H. Applewhite, M. Diamond, L. Goldblatt. J. Amer. Oil Chem. Soc., 38, 609, 1961.
 66. A. Arcus. Analyt. Chem., 31, 1618, 1959.
@@ -120,11 +112,6 @@
 108. D. H. Blankenhorn, G. Rouser, T. J. Weimer. J. Lipid Res., 2, 281, 1961.
 109. R. Blomstrand. Acta chem. scand., 19, 1178, 1965.
 110. C. Boatman, A. E. Decoteau, E. G. Hammond. J. Dairy Sci., 44, 644, 1961.
-
-283
-
----
-
 111. J. Boldingh. Experientia, 4, 270, 1948.
 112. J. Boldingh. Rec. trav. chim., 69, 247, 1950.
 113. V. H. Booth. Biochem. J., 84, 444, 1962.
@@ -175,9 +162,6 @@
 157. D. Buchnea. Fette, Seifen, Anstrichmittel, 64, 887, 1962.
 158. G. C. Buell, R. Reiser. J. Biol. Chem., 234, 217, 1959.
 159. H. Bühring. J. Chromatogr., 11, 452, 1963.
-
-284
-
 160. H. P. Burchfield, E. E. Storrs. Biochemical applications of gas chromatography. N. Y., Acad. Press, 1962, p. 488.
 160a. W. M. Butler, H. M. Maling, M. G. Horming, B. B. Brodie. J. Lipid Res., 2, 95, 1961.
 161. P. Capella, G. de Zotti, G. Ricca, A. Valentini, G. Jacini. J. Amer. Oil Chem. Soc., 37, 564, 1960.
@@ -226,11 +210,6 @@
 203. J. Clément, P. Boucrot, C. Loriette, J. Raulin. Bull. Soc. chim. biol., 45, 1031, 1963.
 204. J. Clément, G. Lavoue, G. Clément. J. Amer. Oil Chem. Soc., 42, 1035, 1965.
 205. J. Clifford. Nature, 195, 568, 1962.
-
-285
-
----
-
 206. L. J. N. Cole, J. B. Brown. J. Amer. Oil Chem. Soc., 37, 359, 1960.
 207. M. H. Coleman. J. Amer. Oil Chem. Soc., 38, 685, 1961.
 208. M. H. Coleman. Advances Lipid Res., 1, 1, 1963.
@@ -282,9 +261,6 @@
 254. H. van Duin. Biochim. et biophys. acta, 12, 489, 1953.
 255. H. J. Dutton. J. Amer. Oil Chem. Soc., 38, 631, 1961.
 256. H. J. Dutton, J. Cannon. J. Amer. Oil Chem. Soc., 33, 46, 1956.
-
-286
-
 257. H. J. Dutton, C. R. Lancaster, O. L. Brekke. J. Amer. Oil Chem. Soc., 27, 25, 1950.
 258. H. J. Dutton, C. R. Scholfield. Progr. Chem. Fats Lipids, 6, 313, 1963.
 259. H. J. Dutton, C. R. Scholfield, T. L. Mounts. J. Amer. Oil Chem. Soc., 38, 96, 1961.
@@ -331,11 +307,6 @@
 300. C. Golumbic, C. J. Martin, B. F. Daubert. Oil and Soap, 23, 187, 1946.
 301. G. Gorranson. Biochem. J., 92, 41P, 1964.
 302. G. Gorbach, C. Weber. Fette, Seifen, Anstrichmittel, 65, 989, 1963.
-
-287
-
----
-
 303. E. Gorin, E. Shafrir. Biochim. et biophys. acta, 70, 109, 1963.
 304. J. Gracian, E. Vioque, M. Maza. Nature, 184, 1941, 1959.
 305. M. M. Graff, E. Scau. Industr. and Engng Chem., Analyt. Ed., 15, 340, 1943.
@@ -385,9 +356,6 @@
 349. I. A. Hansen. Arch. Biochem. and Biophys., 111, 238, 1965.
 350. R. D. Harlow, C. Litchfield, H. C. Fu, R. Reiser. J. Amer. Oil Chem. Soc., 42, 747, 1965.
 352. L. Hartman. Chem. Revs, 58, 845, 1958.
-
-288
-
 353. J. C. Hawke. Chem. and Ind., 1761, 1962.
 354. J. C. Hawke, R. Hansen, F. Shorland. J. Chromatogr., 2, 547, 1959.
 355. K. Hayakawa. J. Amer. Oil Chem. Soc., 44, 354, 1967.
@@ -399,7 +367,7 @@
 361. T. P. Hilditch. J. Amer. Oil Chem. Soc., 31, 433, 1954.
 362. T. P. Hilditch. J. Amer. Oil Chem. Soc., 32, 241, 1955.
 363. T. P. Hilditch. J. Amer. Oil Chem. Soc., 42, 745, 1965.
-V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
+364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 365. T. P. Hilditch, L. Madison. J. Soc. Chem. Ind., 59, 162, 1940.
 366. T. P. Hilditch, M. L. Meara. J. Soc. Chem. Ind., 61, 117, 1942.
 367. T. P. Hilditch, M. L. Meara, J. Holmberg. J. Amer. Oil Chem. Soc., 24, 321, 1947.
@@ -437,11 +405,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 397. I. Hornstein, L. Elliott, P. F. Crowe. Nature, 184, 1710, 1959.
 398. L. A. Horrocks. J. Amer. Oil Chem. Soc., 40, 235, 1963.
 399. L. A. Horrocks, D. G. Cornwell. J. Lipid Res., 3, 165, 1962.
-
-289
-
----
-
 400. L. A. Horrocks, D. G. Cornwell, J. B. Brown. J. Lipid Res., 2, 92, 1961.
 401. C. F. Howard, J. M. Lowenstein. Biochim. et biophys. acta, 84, 226, 1964.
 402. G. A. Howard, A. J. P. Martin. Biochem. J., 46, 532, 1950.
@@ -495,9 +458,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 449. J. M. Johnston. Advances Lipid Res., 1, 105, 1963.
 450. J. M. Johnston, J. H. Bearden. Federation Proc., 19, 230, 1960.
 451. J. M. Johnston, J. H. Bearden. Arch. Biochem. and Biophys., 90, 57, 1960.
-
-290
-
 452. J. M. Johnston, J. H. Bearden. In «Enzymes of lipid metabolism». P. Desnuelle (Ed.). London, 1961, p. 172.
 453. J. M. Johnston, J. H. Bearden. Biochim. et biophys. acta, 56, 365, 1962.
 454. J. M. Johnston, J. L. Brown. Biochim. et biophys. acta, 59, 500, 1962.
@@ -549,11 +509,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 499. F. L. Kauffman, T. G. Weiss, G. D. Lee, B. W. Rockwood. J. Amer. Oil Chem. Soc., 38, 495, 1961.
 500. H. P. Kaufmann. Fette, Seifen, Anstrichmittel, 58, 492, 1956.
 501. H. P. Kaufmann. Analyse der Fette und Fettprodukte. Berlin, Springer, 1958.
-
-291
-
----
-
 502. H. P. Kaufmann, M. Ahrens. Fette, Seifen, Anstrichmittel, 60, 803, 1958.
 503. H. P. Kaufmann, M. Aparicio. Fette, Seifen, Anstrichmittel, 61, 768, 1959.
 504. H. P. Kaufmann, J. Budwig. Fette, Seifen, Anstrichmittel, 52, 555, 1950.
@@ -597,9 +552,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 542. H. P. Kaufmann, E. Mohr. Lab. scient., 6, 41, 1958.
 543. H. P. Kaufmann, W. Nitsch. Fette, Seifen, Anstrichmittel, 56, 154, 1955.
 544. H. P. Kaufmann, W. Nitsch. Fette, Seifen, Anstrichmittel, 57, 473, 1955.
-
-292
-
 545. H. P. Kaufmann, W. Nitsch. Fette, Seifen, Anstrichmittel, 58, 234, 1956.
 546. H. P. Kaufmann, J. Pollenberg. Fette, Seifen, Anstrichmittel, 59, 815, 1957.
 547. H. P. Kaufmann, H. Schnurbusch. Fette, Seifen, Anstrichmittel, 60, 1046, 1958.
@@ -644,11 +596,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 586. V. Koman, E. Komanova. Chem. zvesti, 15, 496, 1961.
 587. A. Kornberg, W. E. Pricer. J. Biol. Chem., 204, 329, 345, 1953.
 588. D. F. Kuemmel. Analyt. Chem., 34, 1003, 1962.
-
-293
-
----
-
 589. R. Kuhn, E. Lederer. Ber., 64, 1349, 1931.
 590. A. Kuksis. J. Am. Oil Chem. Soc., 42, 269, 1965.
 591. A. Kuksis, J. Beveridge. J. Lipid Res., 1, 311, 1960.
@@ -694,9 +641,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 631. S. R. Lipsky, R. A. Landowne, M. Godet. Biochim. et biophys. acta, 31, 336, 1959.
 632. S. R. Lipsky, R. A. Landowne, J. E. Lovelock. Analyt. Chem., 31, 852, 1959.
 633. S. R. Lipsky, J. E. Lovelock, R. A. Landowne. J. Amer. Chem. Soc., 81, 1010, 1959.
-
-294
-
 634. E. W. Lis, J. Tinico, R. Okey. Analyt. Biochem., 2, 100, 1961.
 635. C. Litchfield. Lipids, 3, 170, 1968.
 636. G. Litchfield. Lipids, 3, 417, 1968.
@@ -739,11 +683,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 672. J. R. Magnusson, E. G. Hammond. J. Amer. Oil Chem. Soc., 36, 339, 1959.
 672a. V. Mahadevan. In «Lipid chromatographic analysis», v. I. G. V. Marinetti (Ed.). N. Y., Marcel Dekker Inc., 1967, p. 191.
 673. S. H. Mai. Federation Proc., 10, 388, 1951.
-
-295
-
----
-
 674. B. J. Maier, A. L. Gaboriault, F. D. Rossini. Industr. and Engng Chem., 39, 1072, 1947.
 675. B. J. Maier, R. T. Holman. J. Amer. Oil Chem. Soc., 40, N 9, ix, 1963.
 676. R. Maier, R. T. Holman. Biochemistry, 3, 270, 1964.
@@ -796,9 +735,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 722. C. Michalec. Chem. listy, 56, 1403, 1962.
 723. C. Michalec, Z. Kolman, M. Sulk, J. Meštan. J. Chromatogr., 9, 237, 1962.
 724. C. Michalec, C. Sobeslavsky. Chem. listy, 53, 1170, 1959.
-
-296
-
 725. F. Micheel, H. Schweppe. Mikrochim. acta, 53, 1954.
 726. F. Micheel, H. Schweppe. Ang. Chem., 66, 136, 1954.
 727. K. Mikolajczak, C. R. Smith. Biochim. et biophys. acta, 152, 244, 1968.
@@ -850,11 +786,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 773. S. P. Pathak, S. K. Roy, B. N. Trivedi. Biochem. J., 71, 593, 1964.
 774. S. Patton, R. D. McCarthy. J. Dairy Sci., 46, 396, 1963.
 775. S. Patton, R. D. McCarthy. J. Dairy Sci., 46, 916, 1964.
-
-297
-
----
-
 776. S. Patton, R. D. McCarthy, L. Evans, R. G. Jensen, G. W. Gander. J. Dairy Sci., 45, 248, 1962.
 777. J. J. Peifer. Mikrochim. acta, 529, 1962.
 778. J. J. Peifer, R. Muesing, F. Janssen. J. Amer. Oil Chem. Soc., 40, N 9, xiv, 1963.
@@ -904,9 +835,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 821. A. Renshaw, L. A. Biran. J. Chromatogr., 8, 343, 1962.
 822. L. Reshef, B. Shapiro. Biochim. et biophys. acta, 98, 73, 1965.
 823. D. N. Rhodes, C. H. Lea. Biochem. J., 65, 526, 1957.
-
-298
-
 824. R. W. Riemenschneider. J. Amer. Oil Chem. Soc., 32, 678, 1955.
 825. R. W. Riemenschneider, S. F. Herb, P. L. Nicols. J. Amer. Oil Chem. Soc., 26, 371, 1949.
 826. R. W. Riemenschneider, F. E. Luddy, M. L. Swain, W. C. Ault. Oil and Soap, 23, 276, 1946.
@@ -954,11 +882,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 866. A. Seher. Fette, Seifen, Anstrichmittel, 61, 855, 1959.
 867. J. R. Senior. J. Lipid Res., 5, 495, 1964.
 868. J. R. Senior, K. J. Isselbacher. Biochim. et biophys. acta, 44, 399, 1960.
-
-299
-
----
-
 869. J. R. Senior, K. J. Isselbacher. Federation Proc., 21, 288, 1962.
 870. J. R. Senior, K. J. Isselbacher. J. Biol. Chem., 237, 1454, 1962.
 871. D. Sgoutas, F. A. Kummerow. J. Amer. Oil Chem. Soc., 40, 138, 1963.
@@ -1009,9 +932,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 916. M. R. Subbaram, C. G. Youngs. J. Amer. Oil Chem. Soc., 44, 425, 1967.
 917. R. Subbarao, M. W. Roomi, M. R. Subbaram, K. T. Achaya. J. Chromatogr., 9, 295, 1962.
 918. H. Sulser. Mitt. Gebiete Lebensmitteluntersuch. und Hyg., 50, 275, 1959.
-
-300
-
 919. L. L. Sulya, R. R. Smith. Biochem. and Biophys. Res. Communs, 2, 59, 1960.
 920. E. Svennerholm, L. Svennerholm. Biochim. et biophys. acta, 70, 432, 1963.
 921. J. R. Swartout, J. W. Dieckert, O. N. Miller, J. G. Hamilton. J. Lipid Res., 1, 281, 1960.
@@ -1059,11 +979,6 @@ V 364. T. P. Hilditch, C. H. Lea. J. Chem. Soc., 3106, 1927.
 963. E. Vioque, R. T. Holman. J. Amer. Oil Chem. Soc., 39, 63, 1962.
 964. E. Vioque, M. Maza, M. Calderon. Grasas y aceites, 15, 173, 1964.
 965. C. V. Viswanathan, B. Meera Bai. J. Chromatogr., 6, 264, 1961.
-
-301
-
----
-
 966. C. V. Viswanathan, B. Meera Bai, U. Sittarama Acharya. Chromatogr. Revs, 4, 160, 1962.
 967. W. C. Vogel, W. M. Doizaki, L. Zieve. J. Lipid Res., 3, 138, 1962.
 968. M. L. Vorbeck, L. R. Mattik, F. A. Lee, C. S. Pederson. Analyt. Chem., 33, 1512, 1961.
