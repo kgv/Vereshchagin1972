@@ -4,5 +4,5 @@
 
 #counter(heading).update((2, 1, 8))
 #include "2.1.9.typ"
-#include "2.1.10.typ"
-#include "2.1.11.typ"
+// #include "2.1.10.typ"
+// #include "2.1.11.typ"
