@@ -1,3 +1,6 @@
-# Summary
+# Оглавление
 
-- [Chapter 1](./chapter_1.md)
+- [Введение. Триглицериды природных жиров](./Introduction.md)
+- [Осовная часть](./Main.md)
+- [Сокращения](./Abbreviations.md)
+- [Опечатки и исправления](./Errors.md)
