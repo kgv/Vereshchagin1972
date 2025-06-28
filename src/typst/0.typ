@@ -10,4 +10,5 @@
 //   block(inset: (left: 2em), it)
 // }
 
+#counter(heading).update((1,))
 #include "2/2.0.0.typ"
