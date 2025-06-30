@@ -3,6 +3,8 @@
 #set math.equation(numbering: "(1)")
 #set text(lang: "ru")
 
+#set par(justify: true, leading: 0.52em)
+
 // #show math.equation: it => block(inset: (left: 2em), it)
 #show math.equation: set text(weight: "bold")
 // #show math.equation: set text(green, weight: "bold")
